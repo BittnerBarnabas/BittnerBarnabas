@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BittnerBarnabas, passionate software engineer @ MorganStanley
-- 👀 I’m interested in anything running on the JVM, Rust, low level programming, finance
+- 👀 I’m interested in anything running on the JVM, Rust, functional programming, lower level programming, finance
 - 🌱 I’m currently learning Rust by implementing a simple JVM in it
 - 📫 Reach me via [e-mail](mailto:bittnerbarni@gmail.com), or [LinkedIn](linkedin.com/in/barney-bittner)
 
